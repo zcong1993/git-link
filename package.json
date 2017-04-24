@@ -1,6 +1,6 @@
 {
   "name": "git-link",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "get git full link",
   "repository": {
     "url": "zcong1993/git-link",
@@ -12,8 +12,8 @@
     "cli.js"
   ],
   "bin": {
-   "glk": "cli.js",
-   "git-link": "cli.js"
+    "glk": "cli.js",
+    "git-link": "cli.js"
   },
   "scripts": {
     "test:cov": "jest --coverage && npm run lint",
