@@ -21,10 +21,10 @@ $ glk <short link>
 # example
 $ glk zcong1993/git-link
 # will get
-github    git@github.com:zcong1993/zc.git
-https     https://github.com/zcong1993/zc.git
-gh-pages  https://zcong1993.github.io/zc
-gitbook   https://git.gitbook.com/zcong1993/zc.git
+github    git@github.com:zcong1993/git-link.git
+https     https://github.com/zcong1993/git-link.git
+gh-pages  https://zcong1993.github.io/git-link
+gitbook   https://git.gitbook.com/zcong1993/git-link.git
 ```
 
 ## Contributing
