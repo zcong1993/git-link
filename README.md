@@ -1,7 +1,9 @@
 # git-link
 
-[![NPM version](https://img.shields.io/npm/v/git-link.svg?style=flat)](https://npmjs.com/package/git-link) [![NPM downloads](https://img.shields.io/npm/dm/git-link.svg?style=flat)](https://npmjs.com/package/git-link) [![CircleCI](https://circleci.com/gh/zcong1993/git-link/tree/master.svg?style=shield)](https://circleci.com/gh/zcong1993/git-link/tree/master)  [![codecov](https://codecov.io/gh/zcong1993/git-link/branch/master/graph/badge.svg)](https://codecov.io/gh/zcong1993/git-link)
- [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat)](https://github.com/zcong1993/donate)
+[![NPM version](https://img.shields.io/npm/v/git-link.svg?style=flat)](https://npmjs.com/package/git-link)
+[![NPM downloads](https://img.shields.io/npm/dm/git-link.svg?style=flat)](https://npmjs.com/package/git-link)
+[![CircleCI](https://circleci.com/gh/zcong1993/git-link/tree/master.svg?style=shield)](https://circleci.com/gh/zcong1993/git-link/tree/master)
+[![codecov](https://codecov.io/gh/zcong1993/git-link/branch/master/graph/badge.svg)](https://codecov.io/gh/zcong1993/git-link)
 
 ## Install
 
