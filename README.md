@@ -8,16 +8,23 @@
 ## Install
 
 ```bash
-yarn add git-link
+$ yarn global add git-link
+# npm
+$ npm install git-link -g
 ```
 
 ## Usage
 
-```js
-const gitLink = require('git-link')
-
-gitLink()
-//=> foo
+```bash
+# glk is alias of git-link
+$ glk <short link>
+# example
+$ glk zcong1993/git-link
+# will get
+github    git@github.com:zcong1993/zc.git
+https     https://github.com/zcong1993/zc.git
+gh-pages  https://zcong1993.github.io/zc
+gitbook   https://git.gitbook.com/zcong1993/zc.git
 ```
 
 ## Contributing
