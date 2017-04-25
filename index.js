@@ -1,5 +1,5 @@
 module.exports = short => {
-  const matches = short.match(/(\w+[-]?\w+)\/(\w+[-]?\w+)/)
+  const matches = short.match(/(\w+[-?\w+]*)\/(\w+[-?\w+]*)/)
   if (!matches) {
     throw new Error('Invalidate link!')
   }
