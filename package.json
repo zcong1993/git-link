@@ -26,9 +26,9 @@
     "testEnvironment": "node"
   },
   "devDependencies": {
-    "eslint-config-rem": "^3.0.0",
-    "jest-cli": "^18.1.0",
-    "xo": "^0.17.1"
+    "eslint-config-rem": "3.2.2",
+    "jest-cli": "18.1.0",
+    "xo": "0.17.1"
   },
   "xo": {
     "extends": "rem",
